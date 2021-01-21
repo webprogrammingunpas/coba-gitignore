@@ -1,0 +1,7 @@
+.gitignore itu apa?
+cara menghubungkan File README.md dengan index.html gimana?
+lisensi itu apakah bisa dibuat sendiri?
+
+Number 1-5 Creator Arsyad06
+
+( COMING SOON )
